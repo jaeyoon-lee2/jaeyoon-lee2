@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jaeyoon Lee.
 - 👀 I’m interested in machine learning and software development.
-- 🌱 I’m currently learning 12th grade computer science.
 - 📫 jaeyoon.lee@mths.ca
 
 This is my high school github account.
